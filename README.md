@@ -14,4 +14,4 @@ Overall sentiment (positive, negative, or neutral)
 
 Saves the scraped and analyzed data in a structured .json file for further use
 
-This tool is ideal for journalists, analysts, or researchers who want to monitor content trends, sentiment shifts, or author-specific biases across multiple news articles.
+This tool is ideal for journalists, analysts, or researchers who want to monitor content trends or sentiment shifts.
